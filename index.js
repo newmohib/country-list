@@ -1,4 +1,4 @@
-return countryJsom= [
+[
     {
         "name": "Andorra",
         "native": "Andorra",
@@ -2749,4 +2749,4 @@ return countryJsom= [
         "emoji": "🇿🇼",
         "emojiU": "U+1F1FF U+1F1FC",
         "code": "ZW"
-    }];
+    }]
