@@ -1,0 +1,3977 @@
+[
+  {
+    "id": 1,
+    "police_station_name": "Dohar",
+    "district_id": 1
+  },
+  {
+    "id": 2,
+    "police_station_name": "Tejgaon Circle",
+    "district_id": 1
+  },
+  {
+    "id": 3,
+    "police_station_name": "Savar",
+    "district_id": 1
+  },
+  {
+    "id": 4,
+    "police_station_name": "Nawabganj",
+    "district_id": 1
+  },
+  {
+    "id": 5,
+    "police_station_name": "Keraniganj",
+    "district_id": 1
+  },
+  {
+    "id": 6,
+    "police_station_name": "Dhamrai",
+    "district_id": 1
+  },
+  {
+    "id": 7,
+    "police_station_name": "Ashuganj",
+    "district_id": 2
+  },
+  {
+    "id": 8,
+    "police_station_name": "Nasirnagar",
+    "district_id": 2
+  },
+  {
+    "id": 9,
+    "police_station_name": "Sarail",
+    "district_id": 2
+  },
+  {
+    "id": 10,
+    "police_station_name": "Bancharampur",
+    "district_id": 2
+  },
+  {
+    "id": 11,
+    "police_station_name": "B.Baria-S",
+    "district_id": 2
+  },
+  {
+    "id": 12,
+    "police_station_name": "Kasba",
+    "district_id": 2
+  },
+  {
+    "id": 13,
+    "police_station_name": "Nabinagar",
+    "district_id": 2
+  },
+  {
+    "id": 14,
+    "police_station_name": "Mongla",
+    "district_id": 3
+  },
+  {
+    "id": 15,
+    "police_station_name": "Chitalmari",
+    "district_id": 3
+  },
+  {
+    "id": 16,
+    "police_station_name": "Sharankhola",
+    "district_id": 3
+  },
+  {
+    "id": 17,
+    "police_station_name": "Rampal",
+    "district_id": 3
+  },
+  {
+    "id": 18,
+    "police_station_name": "Mollahat",
+    "district_id": 3
+  },
+  {
+    "id": 19,
+    "police_station_name": "Kachua",
+    "district_id": 3
+  },
+  {
+    "id": 20,
+    "police_station_name": "Fakirhat",
+    "district_id": 3
+  },
+  {
+    "id": 21,
+    "police_station_name": "Bagerhat-S",
+    "district_id": 3
+  },
+  {
+    "id": 22,
+    "police_station_name": "Morrelganj",
+    "district_id": 3
+  },
+  {
+    "id": 23,
+    "police_station_name": "Bandarban-S",
+    "district_id": 4
+  },
+  {
+    "id": 24,
+    "police_station_name": "Rowangchari",
+    "district_id": 4
+  },
+  {
+    "id": 25,
+    "police_station_name": "Thanchi",
+    "district_id": 4
+  },
+  {
+    "id": 26,
+    "police_station_name": "Lama",
+    "district_id": 4
+  },
+  {
+    "id": 27,
+    "police_station_name": "Naikhyongchari",
+    "district_id": 4
+  },
+  {
+    "id": 28,
+    "police_station_name": "Alikadam",
+    "district_id": 4
+  },
+  {
+    "id": 29,
+    "police_station_name": "Betagi",
+    "district_id": 5
+  },
+  {
+    "id": 30,
+    "police_station_name": "Amtali",
+    "district_id": 5
+  },
+  {
+    "id": 31,
+    "police_station_name": "Bamna",
+    "district_id": 5
+  },
+  {
+    "id": 32,
+    "police_station_name": "Barguna",
+    "district_id": 5
+  },
+  {
+    "id": 33,
+    "police_station_name": "Patharghata",
+    "district_id": 5
+  },
+  {
+    "id": 34,
+    "police_station_name": "Banaripara",
+    "district_id": 6
+  },
+  {
+    "id": 35,
+    "police_station_name": "Agailjhara",
+    "district_id": 6
+  },
+  {
+    "id": 36,
+    "police_station_name": "Gouranadi",
+    "district_id": 6
+  },
+  {
+    "id": 37,
+    "police_station_name": "Mehendiganj",
+    "district_id": 6
+  },
+  {
+    "id": 38,
+    "police_station_name": "Muladi",
+    "district_id": 6
+  },
+  {
+    "id": 39,
+    "police_station_name": "Babuganj",
+    "district_id": 6
+  },
+  {
+    "id": 40,
+    "police_station_name": "Bakerganj",
+    "district_id": 6
+  },
+  {
+    "id": 41,
+    "police_station_name": "Uzirpur",
+    "district_id": 6
+  },
+  {
+    "id": 42,
+    "police_station_name": "Barisal-S",
+    "district_id": 6
+  },
+  {
+    "id": 43,
+    "police_station_name": "Bhola-S",
+    "district_id": 7
+  },
+  {
+    "id": 44,
+    "police_station_name": "Charfassion",
+    "district_id": 7
+  },
+  {
+    "id": 45,
+    "police_station_name": "Lalmohan",
+    "district_id": 7
+  },
+  {
+    "id": 46,
+    "police_station_name": "Monpura",
+    "district_id": 7
+  },
+  {
+    "id": 47,
+    "police_station_name": "Tazumuddin",
+    "district_id": 7
+  },
+  {
+    "id": 48,
+    "police_station_name": "Daulatkhan",
+    "district_id": 7
+  },
+  {
+    "id": 49,
+    "police_station_name": "Borhanuddin",
+    "district_id": 7
+  },
+  {
+    "id": 50,
+    "police_station_name": "Adamdighi",
+    "district_id": 8
+  },
+  {
+    "id": 51,
+    "police_station_name": "Bogra-S",
+    "district_id": 8
+  },
+  {
+    "id": 52,
+    "police_station_name": "Dhunot",
+    "district_id": 8
+  },
+  {
+    "id": 53,
+    "police_station_name": "Dhupchancia",
+    "district_id": 8
+  },
+  {
+    "id": 54,
+    "police_station_name": "Gabtali",
+    "district_id": 8
+  },
+  {
+    "id": 55,
+    "police_station_name": "Kahaloo",
+    "district_id": 8
+  },
+  {
+    "id": 56,
+    "police_station_name": "Nandigram",
+    "district_id": 8
+  },
+  {
+    "id": 57,
+    "police_station_name": "Sariakandi",
+    "district_id": 8
+  },
+  {
+    "id": 58,
+    "police_station_name": "Sherpur",
+    "district_id": 8
+  },
+  {
+    "id": 59,
+    "police_station_name": "Shibganj",
+    "district_id": 8
+  },
+  {
+    "id": 60,
+    "police_station_name": "Sonatala",
+    "district_id": 8
+  },
+  {
+    "id": 61,
+    "police_station_name": "Shajahanpur",
+    "district_id": 8
+  },
+  {
+    "id": 62,
+    "police_station_name": "Gomostapur",
+    "district_id": 9
+  },
+  {
+    "id": 63,
+    "police_station_name": "Bholahat",
+    "district_id": 9
+  },
+  {
+    "id": 64,
+    "police_station_name": "Nachol",
+    "district_id": 9
+  },
+  {
+    "id": 65,
+    "police_station_name": "Nawabganj",
+    "district_id": 9
+  },
+  {
+    "id": 66,
+    "police_station_name": "Shibganj",
+    "district_id": 9
+  },
+  {
+    "id": 67,
+    "police_station_name": "Shahrasti",
+    "district_id": 10
+  },
+  {
+    "id": 68,
+    "police_station_name": "Chandpur-S",
+    "district_id": 10
+  },
+  {
+    "id": 69,
+    "police_station_name": "Faridganj",
+    "district_id": 10
+  },
+  {
+    "id": 70,
+    "police_station_name": "Haimchar",
+    "district_id": 10
+  },
+  {
+    "id": 71,
+    "police_station_name": "Haziganj",
+    "district_id": 10
+  },
+  {
+    "id": 72,
+    "police_station_name": "MatlabUttar)",
+    "district_id": 10
+  },
+  {
+    "id": 73,
+    "police_station_name": "MatlabDakshin ",
+    "district_id": 10
+  },
+  {
+    "id": 74,
+    "police_station_name": "Kachua",
+    "district_id": 10
+  },
+  {
+    "id": 75,
+    "police_station_name": "Sandwip",
+    "district_id": 11
+  },
+  {
+    "id": 76,
+    "police_station_name": "Lohagara",
+    "district_id": 11
+  },
+  {
+    "id": 77,
+    "police_station_name": "Satkania",
+    "district_id": 11
+  },
+  {
+    "id": 78,
+    "police_station_name": "Patiya",
+    "district_id": 11
+  },
+  {
+    "id": 79,
+    "police_station_name": "Chandanish",
+    "district_id": 11
+  },
+  {
+    "id": 80,
+    "police_station_name": "Boalkhali",
+    "district_id": 11
+  },
+  {
+    "id": 81,
+    "police_station_name": "Banskhali",
+    "district_id": 11
+  },
+  {
+    "id": 82,
+    "police_station_name": "Sitakunda",
+    "district_id": 11
+  },
+  {
+    "id": 83,
+    "police_station_name": "Raojan",
+    "district_id": 11
+  },
+  {
+    "id": 84,
+    "police_station_name": "Rangunia",
+    "district_id": 11
+  },
+  {
+    "id": 85,
+    "police_station_name": "Mirsharai",
+    "district_id": 11
+  },
+  {
+    "id": 86,
+    "police_station_name": "Hathazari",
+    "district_id": 11
+  },
+  {
+    "id": 87,
+    "police_station_name": "Fatikchari",
+    "district_id": 11
+  },
+  {
+    "id": 88,
+    "police_station_name": "Anwara",
+    "district_id": 11
+  },
+  {
+    "id": 89,
+    "police_station_name": "Damurhuda",
+    "district_id": 12
+  },
+  {
+    "id": 90,
+    "police_station_name": "Chuadanga-S",
+    "district_id": 12
+  },
+  {
+    "id": 91,
+    "police_station_name": "Jibannagar",
+    "district_id": 12
+  },
+  {
+    "id": 92,
+    "police_station_name": "Alamdanga",
+    "district_id": 12
+  },
+  {
+    "id": 93,
+    "police_station_name": "Chandina",
+    "district_id": 13
+  },
+  {
+    "id": 94,
+    "police_station_name": "Daudkandi",
+    "district_id": 13
+  },
+  {
+    "id": 95,
+    "police_station_name": "Debidwar",
+    "district_id": 13
+  },
+  {
+    "id": 96,
+    "police_station_name": "Barura",
+    "district_id": 13
+  },
+  {
+    "id": 97,
+    "police_station_name": "Homna",
+    "district_id": 13
+  },
+  {
+    "id": 98,
+    "police_station_name": "Monohorganj",
+    "district_id": 13
+  },
+  {
+    "id": 99,
+    "police_station_name": "Brahmanpara",
+    "district_id": 13
+  },
+  {
+    "id": 100,
+    "police_station_name": "Burichong",
+    "district_id": 13
+  },
+  {
+    "id": 101,
+    "police_station_name": "Chouddagram",
+    "district_id": 13
+  },
+  {
+    "id": 102,
+    "police_station_name": "Comilla-S",
+    "district_id": 13
+  },
+  {
+    "id": 103,
+    "police_station_name": "Laksham",
+    "district_id": 13
+  },
+  {
+    "id": 104,
+    "police_station_name": "Nangalkot",
+    "district_id": 13
+  },
+  {
+    "id": 105,
+    "police_station_name": "Titas",
+    "district_id": 13
+  },
+  {
+    "id": 106,
+    "police_station_name": "Comilla-S Daksin",
+    "district_id": 13
+  },
+  {
+    "id": 107,
+    "police_station_name": "Muradnagar",
+    "district_id": 13
+  },
+  {
+    "id": 108,
+    "police_station_name": "Meghna",
+    "district_id": 13
+  },
+  {
+    "id": 109,
+    "police_station_name": "Kutubdia",
+    "district_id": 14
+  },
+  {
+    "id": 110,
+    "police_station_name": "Chakoria",
+    "district_id": 14
+  },
+  {
+    "id": 111,
+    "police_station_name": "Pekua",
+    "district_id": 14
+  },
+  {
+    "id": 112,
+    "police_station_name": "Moheskhali",
+    "district_id": 14
+  },
+  {
+    "id": 113,
+    "police_station_name": "Ramu",
+    "district_id": 14
+  },
+  {
+    "id": 114,
+    "police_station_name": "Ukhiya",
+    "district_id": 14
+  },
+  {
+    "id": 115,
+    "police_station_name": "Teknaf",
+    "district_id": 14
+  },
+  {
+    "id": 116,
+    "police_station_name": "Birol",
+    "district_id": 15
+  },
+  {
+    "id": 117,
+    "police_station_name": "Bochaganj",
+    "district_id": 15
+  },
+  {
+    "id": 118,
+    "police_station_name": "Chirirbandar",
+    "district_id": 15
+  },
+  {
+    "id": 119,
+    "police_station_name": "Fulbari",
+    "district_id": 15
+  },
+  {
+    "id": 120,
+    "police_station_name": "Ghoraghat",
+    "district_id": 15
+  },
+  {
+    "id": 121,
+    "police_station_name": "Hakimpur",
+    "district_id": 15
+  },
+  {
+    "id": 122,
+    "police_station_name": "Kaharol",
+    "district_id": 15
+  },
+  {
+    "id": 123,
+    "police_station_name": "Khanshama",
+    "district_id": 15
+  },
+  {
+    "id": 124,
+    "police_station_name": "Dinajpur-S",
+    "district_id": 15
+  },
+  {
+    "id": 125,
+    "police_station_name": "Nawabganj",
+    "district_id": 15
+  },
+  {
+    "id": 126,
+    "police_station_name": "Birampur",
+    "district_id": 15
+  },
+  {
+    "id": 127,
+    "police_station_name": "Parbatipur",
+    "district_id": 15
+  },
+  {
+    "id": 128,
+    "police_station_name": "Birganj",
+    "district_id": 15
+  },
+  {
+    "id": 129,
+    "police_station_name": "Saltha",
+    "district_id": 16
+  },
+  {
+    "id": 130,
+    "police_station_name": "Nagarkanda",
+    "district_id": 16
+  },
+  {
+    "id": 131,
+    "police_station_name": "Alfadanga",
+    "district_id": 16
+  },
+  {
+    "id": 132,
+    "police_station_name": "Bhanga",
+    "district_id": 16
+  },
+  {
+    "id": 133,
+    "police_station_name": "Boalmari",
+    "district_id": 16
+  },
+  {
+    "id": 134,
+    "police_station_name": "Charbhadrasan",
+    "district_id": 16
+  },
+  {
+    "id": 135,
+    "police_station_name": "Faridpur-S",
+    "district_id": 16
+  },
+  {
+    "id": 136,
+    "police_station_name": "Sadarpur",
+    "district_id": 16
+  },
+  {
+    "id": 137,
+    "police_station_name": "Madhukhali",
+    "district_id": 16
+  },
+  {
+    "id": 138,
+    "police_station_name": "Daganbhuiyan",
+    "district_id": 17
+  },
+  {
+    "id": 139,
+    "police_station_name": "Chhagalniya",
+    "district_id": 17
+  },
+  {
+    "id": 140,
+    "police_station_name": "Sonagazi",
+    "district_id": 17
+  },
+  {
+    "id": 141,
+    "police_station_name": "Feni-S",
+    "district_id": 17
+  },
+  {
+    "id": 142,
+    "police_station_name": "Porshuram",
+    "district_id": 17
+  },
+  {
+    "id": 143,
+    "police_station_name": "Fulgazi",
+    "district_id": 17
+  },
+  {
+    "id": 144,
+    "police_station_name": "Saghata",
+    "district_id": 18
+  },
+  {
+    "id": 145,
+    "police_station_name": "Palashbari",
+    "district_id": 18
+  },
+  {
+    "id": 146,
+    "police_station_name": "Sundarganj",
+    "district_id": 18
+  },
+  {
+    "id": 147,
+    "police_station_name": "Sadullapur",
+    "district_id": 18
+  },
+  {
+    "id": 148,
+    "police_station_name": "Gobindaganj",
+    "district_id": 18
+  },
+  {
+    "id": 149,
+    "police_station_name": "Gaibandha-S",
+    "district_id": 18
+  },
+  {
+    "id": 150,
+    "police_station_name": "Fulchari",
+    "district_id": 18
+  },
+  {
+    "id": 151,
+    "police_station_name": "Sreepur",
+    "district_id": 19
+  },
+  {
+    "id": 152,
+    "police_station_name": "Kapasia",
+    "district_id": 19
+  },
+  {
+    "id": 153,
+    "police_station_name": "Kaliganj",
+    "district_id": 19
+  },
+  {
+    "id": 154,
+    "police_station_name": "Kaliakoir",
+    "district_id": 19
+  },
+  {
+    "id": 155,
+    "police_station_name": "Gazipur-S",
+    "district_id": 19
+  },
+  {
+    "id": 156,
+    "police_station_name": "Muksudpur",
+    "district_id": 20
+  },
+  {
+    "id": 157,
+    "police_station_name": "Kotwalipara",
+    "district_id": 20
+  },
+  {
+    "id": 158,
+    "police_station_name": "Tungipara",
+    "district_id": 20
+  },
+  {
+    "id": 159,
+    "police_station_name": "Gopalganj-S",
+    "district_id": 20
+  },
+  {
+    "id": 160,
+    "police_station_name": "Kasiani",
+    "district_id": 20
+  },
+  {
+    "id": 161,
+    "police_station_name": "Baniachong",
+    "district_id": 21
+  },
+  {
+    "id": 162,
+    "police_station_name": "Azmiriganj",
+    "district_id": 21
+  },
+  {
+    "id": 163,
+    "police_station_name": "Nabiganj",
+    "district_id": 21
+  },
+  {
+    "id": 164,
+    "police_station_name": "Madhabpur",
+    "district_id": 21
+  },
+  {
+    "id": 165,
+    "police_station_name": "Lakhai",
+    "district_id": 21
+  },
+  {
+    "id": 166,
+    "police_station_name": "Habiganj-S",
+    "district_id": 21
+  },
+  {
+    "id": 167,
+    "police_station_name": "Chunarughat",
+    "district_id": 21
+  },
+  {
+    "id": 168,
+    "police_station_name": "Bahubal",
+    "district_id": 21
+  },
+  {
+    "id": 169,
+    "police_station_name": "Dewanganj",
+    "district_id": 22
+  },
+  {
+    "id": 170,
+    "police_station_name": "Islampur",
+    "district_id": 22
+  },
+  {
+    "id": 171,
+    "police_station_name": "Jamalpur-S",
+    "district_id": 22
+  },
+  {
+    "id": 172,
+    "police_station_name": "Madarganj",
+    "district_id": 22
+  },
+  {
+    "id": 173,
+    "police_station_name": "Melendah",
+    "district_id": 22
+  },
+  {
+    "id": 174,
+    "police_station_name": "Sarishabari",
+    "district_id": 22
+  },
+  {
+    "id": 175,
+    "police_station_name": "Bakshiganj",
+    "district_id": 22
+  },
+  {
+    "id": 176,
+    "police_station_name": "Abhoynagar",
+    "district_id": 23
+  },
+  {
+    "id": 177,
+    "police_station_name": "Bagherpara",
+    "district_id": 23
+  },
+  {
+    "id": 178,
+    "police_station_name": "Chowgacha",
+    "district_id": 23
+  },
+  {
+    "id": 179,
+    "police_station_name": "Jhikargacha",
+    "district_id": 23
+  },
+  {
+    "id": 180,
+    "police_station_name": "Keshabpur",
+    "district_id": 23
+  },
+  {
+    "id": 181,
+    "police_station_name": "Jessore-S",
+    "district_id": 23
+  },
+  {
+    "id": 182,
+    "police_station_name": "Monirampur",
+    "district_id": 23
+  },
+  {
+    "id": 183,
+    "police_station_name": "Sarsha",
+    "district_id": 23
+  },
+  {
+    "id": 184,
+    "police_station_name": "Jhalokathi-S",
+    "district_id": 24
+  },
+  {
+    "id": 185,
+    "police_station_name": "Kathalia",
+    "district_id": 24
+  },
+  {
+    "id": 186,
+    "police_station_name": "Nalchity",
+    "district_id": 24
+  },
+  {
+    "id": 187,
+    "police_station_name": "Rajapur",
+    "district_id": 24
+  },
+  {
+    "id": 188,
+    "police_station_name": "Shailkupa",
+    "district_id": 25
+  },
+  {
+    "id": 189,
+    "police_station_name": "Moheshpur",
+    "district_id": 25
+  },
+  {
+    "id": 190,
+    "police_station_name": "Kotchandpur",
+    "district_id": 25
+  },
+  {
+    "id": 191,
+    "police_station_name": "Harinakunda",
+    "district_id": 25
+  },
+  {
+    "id": 192,
+    "police_station_name": "Jhenaidah-S",
+    "district_id": 25
+  },
+  {
+    "id": 193,
+    "police_station_name": "Kaliganj",
+    "district_id": 25
+  },
+  {
+    "id": 194,
+    "police_station_name": "Joypurhat-S",
+    "district_id": 26
+  },
+  {
+    "id": 195,
+    "police_station_name": "Akkelpur",
+    "district_id": 26
+  },
+  {
+    "id": 196,
+    "police_station_name": "Khetlal",
+    "district_id": 26
+  },
+  {
+    "id": 197,
+    "police_station_name": "Panchbibi",
+    "district_id": 26
+  },
+  {
+    "id": 198,
+    "police_station_name": "Kalai",
+    "district_id": 26
+  },
+  {
+    "id": 199,
+    "police_station_name": "Khagrachari-S",
+    "district_id": 27
+  },
+  {
+    "id": 200,
+    "police_station_name": "Mahalchari",
+    "district_id": 27
+  },
+  {
+    "id": 201,
+    "police_station_name": "Dighinala",
+    "district_id": 27
+  },
+  {
+    "id": 202,
+    "police_station_name": "Panchari",
+    "district_id": 27
+  },
+  {
+    "id": 203,
+    "police_station_name": "Ramgarh",
+    "district_id": 27
+  },
+  {
+    "id": 204,
+    "police_station_name": "Manikchari",
+    "district_id": 27
+  },
+  {
+    "id": 205,
+    "police_station_name": "Laxmichari",
+    "district_id": 27
+  },
+  {
+    "id": 206,
+    "police_station_name": "Matiranga",
+    "district_id": 27
+  },
+  {
+    "id": 207,
+    "police_station_name": "Dacope",
+    "district_id": 28
+  },
+  {
+    "id": 208,
+    "police_station_name": "Batiaghata",
+    "district_id": 28
+  },
+  {
+    "id": 209,
+    "police_station_name": "Dighalia",
+    "district_id": 28
+  },
+  {
+    "id": 210,
+    "police_station_name": "Dumuria",
+    "district_id": 28
+  },
+  {
+    "id": 211,
+    "police_station_name": "Koira",
+    "district_id": 28
+  },
+  {
+    "id": 212,
+    "police_station_name": "Paikgacha",
+    "district_id": 28
+  },
+  {
+    "id": 213,
+    "police_station_name": "Phultala",
+    "district_id": 28
+  },
+  {
+    "id": 214,
+    "police_station_name": "Terokhada",
+    "district_id": 28
+  },
+  {
+    "id": 215,
+    "police_station_name": "Rupsa",
+    "district_id": 28
+  },
+  {
+    "id": 216,
+    "police_station_name": "Kishoreganj-S",
+    "district_id": 29
+  },
+  {
+    "id": 217,
+    "police_station_name": "Mithamoin",
+    "district_id": 29
+  },
+  {
+    "id": 218,
+    "police_station_name": "Tarail",
+    "district_id": 29
+  },
+  {
+    "id": 219,
+    "police_station_name": "Pakundia",
+    "district_id": 29
+  },
+  {
+    "id": 220,
+    "police_station_name": "Kuliarchar",
+    "district_id": 29
+  },
+  {
+    "id": 221,
+    "police_station_name": "Katiadi",
+    "district_id": 29
+  },
+  {
+    "id": 222,
+    "police_station_name": "Nikli",
+    "district_id": 29
+  },
+  {
+    "id": 223,
+    "police_station_name": "Karimganj",
+    "district_id": 29
+  },
+  {
+    "id": 224,
+    "police_station_name": "Austagram",
+    "district_id": 29
+  },
+  {
+    "id": 225,
+    "police_station_name": "Bajitpur",
+    "district_id": 29
+  },
+  {
+    "id": 226,
+    "police_station_name": "Bhairab",
+    "district_id": 29
+  },
+  {
+    "id": 227,
+    "police_station_name": "Hossainpur",
+    "district_id": 29
+  },
+  {
+    "id": 228,
+    "police_station_name": "Itna",
+    "district_id": 29
+  },
+  {
+    "id": 229,
+    "police_station_name": "Bhurungamari",
+    "district_id": 30
+  },
+  {
+    "id": 230,
+    "police_station_name": "Rajibpur",
+    "district_id": 30
+  },
+  {
+    "id": 231,
+    "police_station_name": "Chilmari",
+    "district_id": 30
+  },
+  {
+    "id": 232,
+    "police_station_name": "Fulbari",
+    "district_id": 30
+  },
+  {
+    "id": 233,
+    "police_station_name": "Kurigram-S",
+    "district_id": 30
+  },
+  {
+    "id": 234,
+    "police_station_name": "Nageswari",
+    "district_id": 30
+  },
+  {
+    "id": 235,
+    "police_station_name": "Rowmari",
+    "district_id": 30
+  },
+  {
+    "id": 236,
+    "police_station_name": "Rajarhat",
+    "district_id": 30
+  },
+  {
+    "id": 237,
+    "police_station_name": "Ulipur",
+    "district_id": 30
+  },
+  {
+    "id": 238,
+    "police_station_name": "Khoksha",
+    "district_id": 31
+  },
+  {
+    "id": 239,
+    "police_station_name": "Bheramara",
+    "district_id": 31
+  },
+  {
+    "id": 240,
+    "police_station_name": "Daulatpur",
+    "district_id": 31
+  },
+  {
+    "id": 241,
+    "police_station_name": "Kumarkhali",
+    "district_id": 31
+  },
+  {
+    "id": 242,
+    "police_station_name": "Mirpur",
+    "district_id": 31
+  },
+  {
+    "id": 243,
+    "police_station_name": "Kushtia-S",
+    "district_id": 31
+  },
+  {
+    "id": 244,
+    "police_station_name": "Patgram",
+    "district_id": 32
+  },
+  {
+    "id": 245,
+    "police_station_name": "Lalmonirhat-S",
+    "district_id": 32
+  },
+  {
+    "id": 246,
+    "police_station_name": "Kaliganj",
+    "district_id": 32
+  },
+  {
+    "id": 247,
+    "police_station_name": "Hatibandha",
+    "district_id": 32
+  },
+  {
+    "id": 248,
+    "police_station_name": "Aditmari",
+    "district_id": 32
+  },
+  {
+    "id": 249,
+    "police_station_name": "Komol Nagar",
+    "district_id": 33
+  },
+  {
+    "id": 250,
+    "police_station_name": "Ramgati",
+    "district_id": 33
+  },
+  {
+    "id": 251,
+    "police_station_name": "Ramganj",
+    "district_id": 33
+  },
+  {
+    "id": 252,
+    "police_station_name": "Raipur",
+    "district_id": 33
+  },
+  {
+    "id": 253,
+    "police_station_name": "Laxmipur-S",
+    "district_id": 33
+  },
+  {
+    "id": 254,
+    "police_station_name": "Kalkini",
+    "district_id": 34
+  },
+  {
+    "id": 255,
+    "police_station_name": "Madaripur-S",
+    "district_id": 34
+  },
+  {
+    "id": 256,
+    "police_station_name": "Rajoir",
+    "district_id": 34
+  },
+  {
+    "id": 257,
+    "police_station_name": "Shibchar",
+    "district_id": 34
+  },
+  {
+    "id": 258,
+    "police_station_name": "Salikha",
+    "district_id": 35
+  },
+  {
+    "id": 259,
+    "police_station_name": "Magura-S",
+    "district_id": 35
+  },
+  {
+    "id": 260,
+    "police_station_name": "Mohammadpur",
+    "district_id": 35
+  },
+  {
+    "id": 261,
+    "police_station_name": "Sreepur",
+    "district_id": 35
+  },
+  {
+    "id": 262,
+    "police_station_name": "Manikganj-S",
+    "district_id": 36
+  },
+  {
+    "id": 263,
+    "police_station_name": "Daulatpur",
+    "district_id": 36
+  },
+  {
+    "id": 264,
+    "police_station_name": "Harirampur",
+    "district_id": 36
+  },
+  {
+    "id": 265,
+    "police_station_name": "Saturia",
+    "district_id": 36
+  },
+  {
+    "id": 266,
+    "police_station_name": "Shivalaya",
+    "district_id": 36
+  },
+  {
+    "id": 267,
+    "police_station_name": "Singair",
+    "district_id": 36
+  },
+  {
+    "id": 268,
+    "police_station_name": "Ghior",
+    "district_id": 36
+  },
+  {
+    "id": 269,
+    "police_station_name": "Gangni",
+    "district_id": 37
+  },
+  {
+    "id": 270,
+    "police_station_name": "Mujib Nagar",
+    "district_id": 37
+  },
+  {
+    "id": 271,
+    "police_station_name": "Meherpur-S",
+    "district_id": 37
+  },
+  {
+    "id": 272,
+    "police_station_name": "Kulaura",
+    "district_id": 38
+  },
+  {
+    "id": 273,
+    "police_station_name": "Kamalganj",
+    "district_id": 38
+  },
+  {
+    "id": 274,
+    "police_station_name": "Moulvibazar-S",
+    "district_id": 38
+  },
+  {
+    "id": 275,
+    "police_station_name": "Rajnagar",
+    "district_id": 38
+  },
+  {
+    "id": 276,
+    "police_station_name": "Sreemangal",
+    "district_id": 38
+  },
+  {
+    "id": 277,
+    "police_station_name": "Juri",
+    "district_id": 38
+  },
+  {
+    "id": 278,
+    "police_station_name": "Barlekha",
+    "district_id": 38
+  },
+  {
+    "id": 279,
+    "police_station_name": "Gazaria",
+    "district_id": 39
+  },
+  {
+    "id": 280,
+    "police_station_name": "Lauhajong",
+    "district_id": 39
+  },
+  {
+    "id": 281,
+    "police_station_name": "Munshiganj-S",
+    "district_id": 39
+  },
+  {
+    "id": 282,
+    "police_station_name": "Sreenagar",
+    "district_id": 39
+  },
+  {
+    "id": 283,
+    "police_station_name": "Tongibari",
+    "district_id": 39
+  },
+  {
+    "id": 284,
+    "police_station_name": "Sirajdikhan",
+    "district_id": 39
+  },
+  {
+    "id": 285,
+    "police_station_name": "Nandail",
+    "district_id": 40
+  },
+  {
+    "id": 286,
+    "police_station_name": "Haluaghat",
+    "district_id": 40
+  },
+  {
+    "id": 287,
+    "police_station_name": "Muktagacha",
+    "district_id": 40
+  },
+  {
+    "id": 288,
+    "police_station_name": "Trishal",
+    "district_id": 40
+  },
+  {
+    "id": 289,
+    "police_station_name": "Dhobaura",
+    "district_id": 40
+  },
+  {
+    "id": 290,
+    "police_station_name": "Gaffargaon",
+    "district_id": 40
+  },
+  {
+    "id": 291,
+    "police_station_name": "Fulbaria",
+    "district_id": 40
+  },
+  {
+    "id": 292,
+    "police_station_name": "Mymensingh-S",
+    "district_id": 40
+  },
+  {
+    "id": 293,
+    "police_station_name": "Ishwarganj",
+    "district_id": 40
+  },
+  {
+    "id": 294,
+    "police_station_name": "Phulpur",
+    "district_id": 40
+  },
+  {
+    "id": 295,
+    "police_station_name": "Gouripur",
+    "district_id": 40
+  },
+  {
+    "id": 296,
+    "police_station_name": "Bhaluka",
+    "district_id": 40
+  },
+  {
+    "id": 297,
+    "police_station_name": "Mohadevpur",
+    "district_id": 41
+  },
+  {
+    "id": 298,
+    "police_station_name": "Shapahar",
+    "district_id": 41
+  },
+  {
+    "id": 299,
+    "police_station_name": "Raninagar",
+    "district_id": 41
+  },
+  {
+    "id": 300,
+    "police_station_name": "Porsha",
+    "district_id": 41
+  },
+  {
+    "id": 301,
+    "police_station_name": "Patnitala",
+    "district_id": 41
+  },
+  {
+    "id": 302,
+    "police_station_name": "Dhamoirhat",
+    "district_id": 41
+  },
+  {
+    "id": 303,
+    "police_station_name": "Naogaon-S",
+    "district_id": 41
+  },
+  {
+    "id": 304,
+    "police_station_name": "Niamatpur",
+    "district_id": 41
+  },
+  {
+    "id": 305,
+    "police_station_name": "Atrai",
+    "district_id": 41
+  },
+  {
+    "id": 306,
+    "police_station_name": "Manda",
+    "district_id": 41
+  },
+  {
+    "id": 307,
+    "police_station_name": "Badalgachi",
+    "district_id": 41
+  },
+  {
+    "id": 308,
+    "police_station_name": "Narail-S",
+    "district_id": 42
+  },
+  {
+    "id": 309,
+    "police_station_name": "Lohagara",
+    "district_id": 42
+  },
+  {
+    "id": 310,
+    "police_station_name": "Kalia",
+    "district_id": 42
+  },
+  {
+    "id": 311,
+    "police_station_name": "Araihazar",
+    "district_id": 43
+  },
+  {
+    "id": 312,
+    "police_station_name": "Rupganj",
+    "district_id": 43
+  },
+  {
+    "id": 313,
+    "police_station_name": "Bandar",
+    "district_id": 43
+  },
+  {
+    "id": 314,
+    "police_station_name": "Sonargaon",
+    "district_id": 43
+  },
+  {
+    "id": 315,
+    "police_station_name": "Narayanganj-S",
+    "district_id": 43
+  },
+  {
+    "id": 316,
+    "police_station_name": "Shibpur",
+    "district_id": 44
+  },
+  {
+    "id": 317,
+    "police_station_name": "Palash",
+    "district_id": 44
+  },
+  {
+    "id": 318,
+    "police_station_name": "Narshingdi-S",
+    "district_id": 44
+  },
+  {
+    "id": 319,
+    "police_station_name": "Raipura",
+    "district_id": 44
+  },
+  {
+    "id": 320,
+    "police_station_name": "Belabo",
+    "district_id": 44
+  },
+  {
+    "id": 321,
+    "police_station_name": "Monohardi",
+    "district_id": 44
+  },
+  {
+    "id": 322,
+    "police_station_name": "Bagatipara",
+    "district_id": 45
+  },
+  {
+    "id": 323,
+    "police_station_name": "Baraigram",
+    "district_id": 45
+  },
+  {
+    "id": 324,
+    "police_station_name": "Gurudaspur",
+    "district_id": 45
+  },
+  {
+    "id": 325,
+    "police_station_name": "Lalpur",
+    "district_id": 45
+  },
+  {
+    "id": 326,
+    "police_station_name": "Natore-S",
+    "district_id": 45
+  },
+  {
+    "id": 327,
+    "police_station_name": "Singra",
+    "district_id": 45
+  },
+  {
+    "id": 328,
+    "police_station_name": "Kendua",
+    "district_id": 46
+  },
+  {
+    "id": 329,
+    "police_station_name": "Atpara",
+    "district_id": 46
+  },
+  {
+    "id": 330,
+    "police_station_name": "Barhatta",
+    "district_id": 46
+  },
+  {
+    "id": 331,
+    "police_station_name": "Durgapur",
+    "district_id": 46
+  },
+  {
+    "id": 332,
+    "police_station_name": "Kalmakanda",
+    "district_id": 46
+  },
+  {
+    "id": 333,
+    "police_station_name": "Madan",
+    "district_id": 46
+  },
+  {
+    "id": 334,
+    "police_station_name": "Mohanganj",
+    "district_id": 46
+  },
+  {
+    "id": 335,
+    "police_station_name": "Netrakona-S",
+    "district_id": 46
+  },
+  {
+    "id": 336,
+    "police_station_name": "Purbadhala",
+    "district_id": 46
+  },
+  {
+    "id": 337,
+    "police_station_name": "Khaliajuri",
+    "district_id": 46
+  },
+  {
+    "id": 338,
+    "police_station_name": "Dimla",
+    "district_id": 47
+  },
+  {
+    "id": 339,
+    "police_station_name": "Domar",
+    "district_id": 47
+  },
+  {
+    "id": 340,
+    "police_station_name": "Jaldhaka",
+    "district_id": 47
+  },
+  {
+    "id": 341,
+    "police_station_name": "Kishoreganj",
+    "district_id": 47
+  },
+  {
+    "id": 342,
+    "police_station_name": "Nilphamari-S",
+    "district_id": 47
+  },
+  {
+    "id": 343,
+    "police_station_name": "Sayedpur",
+    "district_id": 47
+  },
+  {
+    "id": 344,
+    "police_station_name": "Subarna Char",
+    "district_id": 48
+  },
+  {
+    "id": 345,
+    "police_station_name": "Kabir Hat",
+    "district_id": 48
+  },
+  {
+    "id": 346,
+    "police_station_name": "Sonaimuri",
+    "district_id": 48
+  },
+  {
+    "id": 347,
+    "police_station_name": "Noakhali-S",
+    "district_id": 48
+  },
+  {
+    "id": 348,
+    "police_station_name": "Chatkhil",
+    "district_id": 48
+  },
+  {
+    "id": 349,
+    "police_station_name": "Begumganj",
+    "district_id": 48
+  },
+  {
+    "id": 350,
+    "police_station_name": "Companiganj",
+    "district_id": 48
+  },
+  {
+    "id": 351,
+    "police_station_name": "Hatiya",
+    "district_id": 48
+  },
+  {
+    "id": 352,
+    "police_station_name": "Senbag",
+    "district_id": 48
+  },
+  {
+    "id": 353,
+    "police_station_name": "Atghoria",
+    "district_id": 49
+  },
+  {
+    "id": 354,
+    "police_station_name": "Chatmohar",
+    "district_id": 49
+  },
+  {
+    "id": 355,
+    "police_station_name": "Faridpur",
+    "district_id": 49
+  },
+  {
+    "id": 356,
+    "police_station_name": "Ishwardi",
+    "district_id": 49
+  },
+  {
+    "id": 357,
+    "police_station_name": "Bhangura",
+    "district_id": 49
+  },
+  {
+    "id": 358,
+    "police_station_name": "Sujanagar",
+    "district_id": 49
+  },
+  {
+    "id": 359,
+    "police_station_name": "Santhia",
+    "district_id": 49
+  },
+  {
+    "id": 360,
+    "police_station_name": "Pabna-S",
+    "district_id": 49
+  },
+  {
+    "id": 361,
+    "police_station_name": "Boda",
+    "district_id": 50
+  },
+  {
+    "id": 362,
+    "police_station_name": "Atwari",
+    "district_id": 50
+  },
+  {
+    "id": 363,
+    "police_station_name": "Debiganj",
+    "district_id": 50
+  },
+  {
+    "id": 364,
+    "police_station_name": "Panchagarh-S",
+    "district_id": 50
+  },
+  {
+    "id": 365,
+    "police_station_name": "Tetulia",
+    "district_id": 50
+  },
+  {
+    "id": 366,
+    "police_station_name": "Galachipa",
+    "district_id": 51
+  },
+  {
+    "id": 367,
+    "police_station_name": "Dashmina",
+    "district_id": 51
+  },
+  {
+    "id": 368,
+    "police_station_name": "Kalapara",
+    "district_id": 51
+  },
+  {
+    "id": 369,
+    "police_station_name": "Mirjaganj",
+    "district_id": 51
+  },
+  {
+    "id": 370,
+    "police_station_name": "Patuakhali-S",
+    "district_id": 51
+  },
+  {
+    "id": 371,
+    "police_station_name": "Dumki",
+    "district_id": 51
+  },
+  {
+    "id": 372,
+    "police_station_name": "Bauphal",
+    "district_id": 51
+  },
+  {
+    "id": 373,
+    "police_station_name": "Zianagar",
+    "district_id": 52
+  },
+  {
+    "id": 374,
+    "police_station_name": "Perojpur-S",
+    "district_id": 52
+  },
+  {
+    "id": 375,
+    "police_station_name": "Nazirpur",
+    "district_id": 52
+  },
+  {
+    "id": 376,
+    "police_station_name": "Nesarabad",
+    "district_id": 52
+  },
+  {
+    "id": 377,
+    "police_station_name": "Bhandaria",
+    "district_id": 52
+  },
+  {
+    "id": 378,
+    "police_station_name": "Kawkhali",
+    "district_id": 52
+  },
+  {
+    "id": 379,
+    "police_station_name": "Mothbaria",
+    "district_id": 52
+  },
+  {
+    "id": 380,
+    "police_station_name": "Baliakandi",
+    "district_id": 53
+  },
+  {
+    "id": 381,
+    "police_station_name": "Goalanda",
+    "district_id": 53
+  },
+  {
+    "id": 382,
+    "police_station_name": "Pangsha",
+    "district_id": 53
+  },
+  {
+    "id": 383,
+    "police_station_name": "Rajbari-S",
+    "district_id": 53
+  },
+  {
+    "id": 384,
+    "police_station_name": "Kalukhali",
+    "district_id": 53
+  },
+  {
+    "id": 385,
+    "police_station_name": "Godagari",
+    "district_id": 54
+  },
+  {
+    "id": 386,
+    "police_station_name": "Paba",
+    "district_id": 54
+  },
+  {
+    "id": 387,
+    "police_station_name": "Bagha",
+    "district_id": 54
+  },
+  {
+    "id": 388,
+    "police_station_name": "Bagmara",
+    "district_id": 54
+  },
+  {
+    "id": 389,
+    "police_station_name": "Charghat",
+    "district_id": 54
+  },
+  {
+    "id": 390,
+    "police_station_name": "Durgapur",
+    "district_id": 54
+  },
+  {
+    "id": 391,
+    "police_station_name": "Mohanpur",
+    "district_id": 54
+  },
+  {
+    "id": 392,
+    "police_station_name": "Puthia",
+    "district_id": 54
+  },
+  {
+    "id": 393,
+    "police_station_name": "Tanore",
+    "district_id": 54
+  },
+  {
+    "id": 394,
+    "police_station_name": "Rajosthali",
+    "district_id": 55
+  },
+  {
+    "id": 395,
+    "police_station_name": "Belaichari",
+    "district_id": 55
+  },
+  {
+    "id": 396,
+    "police_station_name": "Rangamati-S",
+    "district_id": 55
+  },
+  {
+    "id": 397,
+    "police_station_name": "Baghaichari",
+    "district_id": 55
+  },
+  {
+    "id": 398,
+    "police_station_name": "Kaptai",
+    "district_id": 55
+  },
+  {
+    "id": 399,
+    "police_station_name": "Nanniarchar",
+    "district_id": 55
+  },
+  {
+    "id": 400,
+    "police_station_name": "Juraichari",
+    "district_id": 55
+  },
+  {
+    "id": 401,
+    "police_station_name": "Langadu",
+    "district_id": 55
+  },
+  {
+    "id": 402,
+    "police_station_name": "Kaukhali",
+    "district_id": 55
+  },
+  {
+    "id": 403,
+    "police_station_name": "Pirgacha",
+    "district_id": 56
+  },
+  {
+    "id": 404,
+    "police_station_name": "Rangpur-S",
+    "district_id": 56
+  },
+  {
+    "id": 405,
+    "police_station_name": "Pirganj",
+    "district_id": 56
+  },
+  {
+    "id": 406,
+    "police_station_name": "Mithapukur",
+    "district_id": 56
+  },
+  {
+    "id": 407,
+    "police_station_name": "Taraganj",
+    "district_id": 56
+  },
+  {
+    "id": 408,
+    "police_station_name": "Kaunia",
+    "district_id": 56
+  },
+  {
+    "id": 409,
+    "police_station_name": "Gangachara",
+    "district_id": 56
+  },
+  {
+    "id": 410,
+    "police_station_name": "Badarganj",
+    "district_id": 56
+  },
+  {
+    "id": 411,
+    "police_station_name": "Assasuni",
+    "district_id": 57
+  },
+  {
+    "id": 412,
+    "police_station_name": "Kalaroa",
+    "district_id": 57
+  },
+  {
+    "id": 413,
+    "police_station_name": "Satkhira-S",
+    "district_id": 57
+  },
+  {
+    "id": 414,
+    "police_station_name": "Kaliganj",
+    "district_id": 57
+  },
+  {
+    "id": 415,
+    "police_station_name": "Debhata",
+    "district_id": 57
+  },
+  {
+    "id": 416,
+    "police_station_name": "Shyamnagar",
+    "district_id": 57
+  },
+  {
+    "id": 417,
+    "police_station_name": "Tala",
+    "district_id": 57
+  },
+  {
+    "id": 418,
+    "police_station_name": "Tarash",
+    "district_id": 58
+  },
+  {
+    "id": 419,
+    "police_station_name": "Ullapara",
+    "district_id": 58
+  },
+  {
+    "id": 420,
+    "police_station_name": "Serajganj-S",
+    "district_id": 58
+  },
+  {
+    "id": 421,
+    "police_station_name": "Shahzadpur",
+    "district_id": 58
+  },
+  {
+    "id": 422,
+    "police_station_name": "Raiganj",
+    "district_id": 58
+  },
+  {
+    "id": 423,
+    "police_station_name": "Kazipur",
+    "district_id": 58
+  },
+  {
+    "id": 424,
+    "police_station_name": "Chowhali",
+    "district_id": 58
+  },
+  {
+    "id": 425,
+    "police_station_name": "Belkuchi",
+    "district_id": 58
+  },
+  {
+    "id": 426,
+    "police_station_name": "Kamarkhand",
+    "district_id": 58
+  },
+  {
+    "id": 427,
+    "police_station_name": "Bhedarganj",
+    "district_id": 59
+  },
+  {
+    "id": 428,
+    "police_station_name": "Damuddya",
+    "district_id": 59
+  },
+  {
+    "id": 429,
+    "police_station_name": "Goshairhat",
+    "district_id": 59
+  },
+  {
+    "id": 430,
+    "police_station_name": "Naria",
+    "district_id": 59
+  },
+  {
+    "id": 431,
+    "police_station_name": "Shariatpur-S",
+    "district_id": 59
+  },
+  {
+    "id": 432,
+    "police_station_name": "Janjira",
+    "district_id": 59
+  },
+  {
+    "id": 433,
+    "police_station_name": "Nakla",
+    "district_id": 60
+  },
+  {
+    "id": 434,
+    "police_station_name": "Jhenaigati",
+    "district_id": 60
+  },
+  {
+    "id": 435,
+    "police_station_name": "Nalitabari",
+    "district_id": 60
+  },
+  {
+    "id": 436,
+    "police_station_name": "Sherpur-S",
+    "district_id": 60
+  },
+  {
+    "id": 437,
+    "police_station_name": "Sreebordi",
+    "district_id": 60
+  },
+  {
+    "id": 438,
+    "police_station_name": "Dakhin Sunamganj",
+    "district_id": 61
+  },
+  {
+    "id": 439,
+    "police_station_name": "Biswamvarpur",
+    "district_id": 61
+  },
+  {
+    "id": 440,
+    "police_station_name": "Tahirpur",
+    "district_id": 61
+  },
+  {
+    "id": 441,
+    "police_station_name": "Sunamganj-S",
+    "district_id": 61
+  },
+  {
+    "id": 442,
+    "police_station_name": "Sulla",
+    "district_id": 61
+  },
+  {
+    "id": 443,
+    "police_station_name": "Jamalganj",
+    "district_id": 61
+  },
+  {
+    "id": 444,
+    "police_station_name": "Jagannathpur",
+    "district_id": 61
+  },
+  {
+    "id": 445,
+    "police_station_name": "Doarabazar",
+    "district_id": 61
+  },
+  {
+    "id": 446,
+    "police_station_name": "Dharmapasha",
+    "district_id": 61
+  },
+  {
+    "id": 447,
+    "police_station_name": "Chatak",
+    "district_id": 61
+  },
+  {
+    "id": 448,
+    "police_station_name": "Derai",
+    "district_id": 61
+  },
+  {
+    "id": 449,
+    "police_station_name": "Companiganj",
+    "district_id": 62
+  },
+  {
+    "id": 450,
+    "police_station_name": "Kanaighat",
+    "district_id": 62
+  },
+  {
+    "id": 451,
+    "police_station_name": "Dakshin Surma",
+    "district_id": 62
+  },
+  {
+    "id": 452,
+    "police_station_name": "Zakiganj",
+    "district_id": 62
+  },
+  {
+    "id": 453,
+    "police_station_name": "Sylhet-S",
+    "district_id": 62
+  },
+  {
+    "id": 454,
+    "police_station_name": "Jointiapur",
+    "district_id": 62
+  },
+  {
+    "id": 455,
+    "police_station_name": "Gowainghat",
+    "district_id": 62
+  },
+  {
+    "id": 456,
+    "police_station_name": "Fenchuganj",
+    "district_id": 62
+  },
+  {
+    "id": 457,
+    "police_station_name": "Biswanath",
+    "district_id": 62
+  },
+  {
+    "id": 458,
+    "police_station_name": "Beanibazar",
+    "district_id": 62
+  },
+  {
+    "id": 459,
+    "police_station_name": "Balaganj",
+    "district_id": 62
+  },
+  {
+    "id": 460,
+    "police_station_name": "Golapganj",
+    "district_id": 62
+  },
+  {
+    "id": 461,
+    "police_station_name": "Ghatail",
+    "district_id": 63
+  },
+  {
+    "id": 462,
+    "police_station_name": "Shakhipur",
+    "district_id": 63
+  },
+  {
+    "id": 463,
+    "police_station_name": "Mirzapur",
+    "district_id": 63
+  },
+  {
+    "id": 464,
+    "police_station_name": "Tangail-S",
+    "district_id": 63
+  },
+  {
+    "id": 465,
+    "police_station_name": "Madhupur",
+    "district_id": 63
+  },
+  {
+    "id": 466,
+    "police_station_name": "Kalihati",
+    "district_id": 63
+  },
+  {
+    "id": 467,
+    "police_station_name": "Gopalpur",
+    "district_id": 63
+  },
+  {
+    "id": 468,
+    "police_station_name": "Nagarpur",
+    "district_id": 63
+  },
+  {
+    "id": 469,
+    "police_station_name": "Bhuapur",
+    "district_id": 63
+  },
+  {
+    "id": 470,
+    "police_station_name": "Basail",
+    "district_id": 63
+  },
+  {
+    "id": 471,
+    "police_station_name": "Dhanbari",
+    "district_id": 63
+  },
+  {
+    "id": 472,
+    "police_station_name": "Delduar",
+    "district_id": 63
+  },
+  {
+    "id": 473,
+    "police_station_name": "Thakurgaon-S",
+    "district_id": 64
+  },
+  {
+    "id": 474,
+    "police_station_name": "Baliadangi",
+    "district_id": 64
+  },
+  {
+    "id": 475,
+    "police_station_name": "Haripur",
+    "district_id": 64
+  },
+  {
+    "id": 476,
+    "police_station_name": "Pirganj",
+    "district_id": 64
+  },
+  {
+    "id": 477,
+    "police_station_name": "Ranisankail",
+    "district_id": 64
+  },
+  {
+    "id": 478,
+    "police_station_name": "Kundugram",
+    "district_id": 50
+  },
+  {
+    "id": 479,
+    "police_station_name": "Nasratpur",
+    "district_id": 50
+  },
+  {
+    "id": 480,
+    "police_station_name": "Shantahar",
+    "district_id": 50
+  },
+  {
+    "id": 481,
+    "police_station_name": "Erulia",
+    "district_id": 51
+  },
+  {
+    "id": 482,
+    "police_station_name": "Fanpore",
+    "district_id": 51
+  },
+  {
+    "id": 483,
+    "police_station_name": "Gokul",
+    "district_id": 51
+  },
+  {
+    "id": 484,
+    "police_station_name": "Lahiripara",
+    "district_id": 51
+  },
+  {
+    "id": 485,
+    "police_station_name": "Namuja",
+    "district_id": 51
+  },
+  {
+    "id": 486,
+    "police_station_name": "Nishindara",
+    "district_id": 51
+  },
+  {
+    "id": 487,
+    "police_station_name": "Noongola",
+    "district_id": 51
+  },
+  {
+    "id": 488,
+    "police_station_name": "Rajapur",
+    "district_id": 51
+  },
+  {
+    "id": 489,
+    "police_station_name": "Shabgram",
+    "district_id": 51
+  },
+  {
+    "id": 490,
+    "police_station_name": "Shakharia",
+    "district_id": 51
+  },
+  {
+    "id": 491,
+    "police_station_name": "Sekherkola",
+    "district_id": 51
+  },
+  {
+    "id": 492,
+    "police_station_name": "Bhandarbari",
+    "district_id": 52
+  },
+  {
+    "id": 493,
+    "police_station_name": "Chowkibari",
+    "district_id": 52
+  },
+  {
+    "id": 494,
+    "police_station_name": "Chikashi",
+    "district_id": 52
+  },
+  {
+    "id": 495,
+    "police_station_name": "Dhunat",
+    "district_id": 52
+  },
+  {
+    "id": 496,
+    "police_station_name": "Elangi",
+    "district_id": 52
+  },
+  {
+    "id": 497,
+    "police_station_name": "Gopalnagar",
+    "district_id": 52
+  },
+  {
+    "id": 498,
+    "police_station_name": "Goshaibari",
+    "district_id": 52
+  },
+  {
+    "id": 499,
+    "police_station_name": "Kalerpara",
+    "district_id": 52
+  },
+  {
+    "id": 500,
+    "police_station_name": "Mathurapur",
+    "district_id": 52
+  },
+  {
+    "id": 501,
+    "police_station_name": "Nimgachhi",
+    "district_id": 52
+  },
+  {
+    "id": 502,
+    "police_station_name": "Chamrul",
+    "district_id": 53
+  },
+  {
+    "id": 503,
+    "police_station_name": "Dhupchanchia",
+    "district_id": 53
+  },
+  {
+    "id": 504,
+    "police_station_name": "Gobindapur",
+    "district_id": 53
+  },
+  {
+    "id": 505,
+    "police_station_name": "Gunahar",
+    "district_id": 53
+  },
+  {
+    "id": 506,
+    "police_station_name": "Talora",
+    "district_id": 53
+  },
+  {
+    "id": 507,
+    "police_station_name": "Zianagar",
+    "district_id": 53
+  },
+  {
+    "id": 508,
+    "police_station_name": "Baliadighi",
+    "district_id": 54
+  },
+  {
+    "id": 509,
+    "police_station_name": "Dakshinpara",
+    "district_id": 54
+  },
+  {
+    "id": 510,
+    "police_station_name": "Durgahata",
+    "district_id": 54
+  },
+  {
+    "id": 511,
+    "police_station_name": "Gabtali",
+    "district_id": 54
+  },
+  {
+    "id": 512,
+    "police_station_name": "Kagoil",
+    "district_id": 54
+  },
+  {
+    "id": 513,
+    "police_station_name": "Mahishaban",
+    "district_id": 54
+  },
+  {
+    "id": 514,
+    "police_station_name": "Naruwala",
+    "district_id": 54
+  },
+  {
+    "id": 515,
+    "police_station_name": "Nasipur",
+    "district_id": 54
+  },
+  {
+    "id": 516,
+    "police_station_name": "Nepaltali",
+    "district_id": 54
+  },
+  {
+    "id": 517,
+    "police_station_name": "Rameshwarpur",
+    "district_id": 54
+  },
+  {
+    "id": 518,
+    "police_station_name": "Sonaroy",
+    "district_id": 54
+  },
+  {
+    "id": 519,
+    "police_station_name": "Birkedar",
+    "district_id": 55
+  },
+  {
+    "id": 520,
+    "police_station_name": "Durgapur",
+    "district_id": 55
+  },
+  {
+    "id": 521,
+    "police_station_name": "Jamgram",
+    "district_id": 55
+  },
+  {
+    "id": 522,
+    "police_station_name": "Kahaloo",
+    "district_id": 55
+  },
+  {
+    "id": 523,
+    "police_station_name": "Kalai",
+    "district_id": 55
+  },
+  {
+    "id": 524,
+    "police_station_name": "Malancho",
+    "district_id": 55
+  },
+  {
+    "id": 525,
+    "police_station_name": "Maruil",
+    "district_id": 55
+  },
+  {
+    "id": 526,
+    "police_station_name": "Narahotta",
+    "district_id": 55
+  },
+  {
+    "id": 527,
+    "police_station_name": "Paikar",
+    "district_id": 55
+  },
+  {
+    "id": 528,
+    "police_station_name": "Bhatgram",
+    "district_id": 56
+  },
+  {
+    "id": 529,
+    "police_station_name": "Bhatora",
+    "district_id": 56
+  },
+  {
+    "id": 530,
+    "police_station_name": "Burail",
+    "district_id": 56
+  },
+  {
+    "id": 531,
+    "police_station_name": "Nandigram",
+    "district_id": 56
+  },
+  {
+    "id": 532,
+    "police_station_name": "Thaltamajhgram",
+    "district_id": 56
+  },
+  {
+    "id": 533,
+    "police_station_name": "Bhelabari",
+    "district_id": 57
+  },
+  {
+    "id": 534,
+    "police_station_name": "Bohail",
+    "district_id": 57
+  },
+  {
+    "id": 535,
+    "police_station_name": "Chaluabari",
+    "district_id": 57
+  },
+  {
+    "id": 536,
+    "police_station_name": "Chandanbaisha",
+    "district_id": 57
+  },
+  {
+    "id": 537,
+    "police_station_name": "Fulbari",
+    "district_id": 57
+  },
+  {
+    "id": 538,
+    "police_station_name": "Hatsherpur",
+    "district_id": 57
+  },
+  {
+    "id": 539,
+    "police_station_name": "Kamalpur",
+    "district_id": 57
+  },
+  {
+    "id": 540,
+    "police_station_name": "Kazla",
+    "district_id": 57
+  },
+  {
+    "id": 541,
+    "police_station_name": "Karnibari",
+    "district_id": 57
+  },
+  {
+    "id": 542,
+    "police_station_name": "Kutubpur",
+    "district_id": 57
+  },
+  {
+    "id": 543,
+    "police_station_name": "Narchi",
+    "district_id": 57
+  },
+  {
+    "id": 544,
+    "police_station_name": "Sariakandi",
+    "district_id": 57
+  },
+  {
+    "id": 545,
+    "police_station_name": "Bhabanipur",
+    "district_id": 58
+  },
+  {
+    "id": 546,
+    "police_station_name": "Bishalpur",
+    "district_id": 58
+  },
+  {
+    "id": 547,
+    "police_station_name": "Garidaha",
+    "district_id": 58
+  },
+  {
+    "id": 548,
+    "police_station_name": "Khamarkandi",
+    "district_id": 58
+  },
+  {
+    "id": 549,
+    "police_station_name": "Khanpur",
+    "district_id": 58
+  },
+  {
+    "id": 550,
+    "police_station_name": "Kusumbi",
+    "district_id": 58
+  },
+  {
+    "id": 551,
+    "police_station_name": "Mirzapur",
+    "district_id": 58
+  },
+  {
+    "id": 552,
+    "police_station_name": "Shimabari",
+    "district_id": 58
+  },
+  {
+    "id": 553,
+    "police_station_name": "Sughat",
+    "district_id": 58
+  },
+  {
+    "id": 554,
+    "police_station_name": "Atmul",
+    "district_id": 59
+  },
+  {
+    "id": 555,
+    "police_station_name": "Bihar",
+    "district_id": 59
+  },
+  {
+    "id": 556,
+    "police_station_name": "Buriganj",
+    "district_id": 59
+  },
+  {
+    "id": 557,
+    "police_station_name": "Dewli",
+    "district_id": 59
+  },
+  {
+    "id": 558,
+    "police_station_name": "Kichak",
+    "district_id": 59
+  },
+  {
+    "id": 559,
+    "police_station_name": "Maidanhata",
+    "district_id": 59
+  },
+  {
+    "id": 560,
+    "police_station_name": "Majhihatta",
+    "district_id": 59
+  },
+  {
+    "id": 561,
+    "police_station_name": "Mokamtala",
+    "district_id": 59
+  },
+  {
+    "id": 562,
+    "police_station_name": "Pirab",
+    "district_id": 59
+  },
+  {
+    "id": 563,
+    "police_station_name": "Roynagar",
+    "district_id": 59
+  },
+  {
+    "id": 564,
+    "police_station_name": "Sayedpur",
+    "district_id": 59
+  },
+  {
+    "id": 565,
+    "police_station_name": "Shibganj",
+    "district_id": 59
+  },
+  {
+    "id": 566,
+    "police_station_name": "Balua",
+    "district_id": 60
+  },
+  {
+    "id": 567,
+    "police_station_name": "Digdair",
+    "district_id": 60
+  },
+  {
+    "id": 568,
+    "police_station_name": "Jorgachha",
+    "district_id": 60
+  },
+  {
+    "id": 569,
+    "police_station_name": "Madhupur",
+    "district_id": 60
+  },
+  {
+    "id": 570,
+    "police_station_name": "Pakulla",
+    "district_id": 60
+  },
+  {
+    "id": 571,
+    "police_station_name": "Sonatala",
+    "district_id": 60
+  },
+  {
+    "id": 572,
+    "police_station_name": "Tekanichukainagar",
+    "district_id": 60
+  },
+  {
+    "id": 573,
+    "police_station_name": "Amrul",
+    "district_id": 61
+  },
+  {
+    "id": 574,
+    "police_station_name": "Aria",
+    "district_id": 61
+  },
+  {
+    "id": 575,
+    "police_station_name": "Asekpur",
+    "district_id": 61
+  },
+  {
+    "id": 576,
+    "police_station_name": "Chupinagar",
+    "district_id": 61
+  },
+  {
+    "id": 577,
+    "police_station_name": "Gohail",
+    "district_id": 61
+  },
+  {
+    "id": 578,
+    "police_station_name": "Kharna",
+    "district_id": 61
+  },
+  {
+    "id": 579,
+    "police_station_name": "Khottapara",
+    "district_id": 61
+  },
+  {
+    "id": 580,
+    "police_station_name": "Madla",
+    "district_id": 61
+  },
+  {
+    "id": 581,
+    "police_station_name": "Majhira",
+    "district_id": 61
+  },
+  {
+    "id": 582,
+    "police_station_name": "Sultanganj",
+    "district_id": 61
+  },
+  {
+    "id": 583,
+    "police_station_name": "Alinagar",
+    "district_id": 62
+  },
+  {
+    "id": 584,
+    "police_station_name": "Bhangabari",
+    "district_id": 62
+  },
+  {
+    "id": 585,
+    "police_station_name": "Boalia",
+    "district_id": 62
+  },
+  {
+    "id": 586,
+    "police_station_name": "Chowdala",
+    "district_id": 62
+  },
+  {
+    "id": 587,
+    "police_station_name": "Gomastapur",
+    "district_id": 62
+  },
+  {
+    "id": 588,
+    "police_station_name": "Parbatipur",
+    "district_id": 62
+  },
+  {
+    "id": 589,
+    "police_station_name": "Radhanagar",
+    "district_id": 62
+  },
+  {
+    "id": 590,
+    "police_station_name": "Rahanpur",
+    "district_id": 62
+  },
+  {
+    "id": 591,
+    "police_station_name": "Bholahat",
+    "district_id": 63
+  },
+  {
+    "id": 592,
+    "police_station_name": "Daldali",
+    "district_id": 63
+  },
+  {
+    "id": 593,
+    "police_station_name": "Gohalbari",
+    "district_id": 63
+  },
+  {
+    "id": 594,
+    "police_station_name": "Jambaria",
+    "district_id": 63
+  },
+  {
+    "id": 595,
+    "police_station_name": "Fatepur",
+    "district_id": 64
+  },
+  {
+    "id": 596,
+    "police_station_name": "Kasba",
+    "district_id": 64
+  },
+  {
+    "id": 597,
+    "police_station_name": "Nachol",
+    "district_id": 64
+  },
+  {
+    "id": 598,
+    "police_station_name": "Nezampur",
+    "district_id": 64
+  },
+  {
+    "id": 599,
+    "police_station_name": "Alatuli",
+    "district_id": 65
+  },
+  {
+    "id": 600,
+    "police_station_name": "Balidanga",
+    "district_id": 65
+  },
+  {
+    "id": 601,
+    "police_station_name": "Barogharia",
+    "district_id": 65
+  },
+  {
+    "id": 602,
+    "police_station_name": "CharAnupnagar",
+    "district_id": 65
+  },
+  {
+    "id": 603,
+    "police_station_name": "Charbagdanga",
+    "district_id": 65
+  },
+  {
+    "id": 604,
+    "police_station_name": "Debinagar",
+    "district_id": 65
+  },
+  {
+    "id": 605,
+    "police_station_name": "Gobratala",
+    "district_id": 65
+  },
+  {
+    "id": 606,
+    "police_station_name": "Islampur",
+    "district_id": 65
+  },
+  {
+    "id": 607,
+    "police_station_name": "Jhilim",
+    "district_id": 65
+  },
+  {
+    "id": 608,
+    "police_station_name": "Maharajpur",
+    "district_id": 65
+  },
+  {
+    "id": 609,
+    "police_station_name": "Narayanpur",
+    "district_id": 65
+  },
+  {
+    "id": 610,
+    "police_station_name": "Ranihati",
+    "district_id": 65
+  },
+  {
+    "id": 611,
+    "police_station_name": "Shahajahanpur",
+    "district_id": 65
+  },
+  {
+    "id": 612,
+    "police_station_name": "Sundarpur",
+    "district_id": 65
+  },
+  {
+    "id": 613,
+    "police_station_name": "Binodpur",
+    "district_id": 66
+  },
+  {
+    "id": 614,
+    "police_station_name": "Chakkirti",
+    "district_id": 66
+  },
+  {
+    "id": 615,
+    "police_station_name": "Daipukuria",
+    "district_id": 66
+  },
+  {
+    "id": 616,
+    "police_station_name": "Dhainagar",
+    "district_id": 66
+  },
+  {
+    "id": 617,
+    "police_station_name": "Durlabhpur",
+    "district_id": 66
+  },
+  {
+    "id": 618,
+    "police_station_name": "Ghorapakhia",
+    "district_id": 66
+  },
+  {
+    "id": 619,
+    "police_station_name": "Kansat",
+    "district_id": 66
+  },
+  {
+    "id": 620,
+    "police_station_name": "Mobarakpur",
+    "district_id": 66
+  },
+  {
+    "id": 621,
+    "police_station_name": "Monakasha",
+    "district_id": 66
+  },
+  {
+    "id": 622,
+    "police_station_name": "Nayalabhanga",
+    "district_id": 66
+  },
+  {
+    "id": 623,
+    "police_station_name": "Panka",
+    "district_id": 66
+  },
+  {
+    "id": 624,
+    "police_station_name": "Chhatrajitpur",
+    "district_id": 66
+  },
+  {
+    "id": 625,
+    "police_station_name": "Shahbajpur",
+    "district_id": 66
+  },
+  {
+    "id": 626,
+    "police_station_name": "Shyampur",
+    "district_id": 66
+  },
+  {
+    "id": 627,
+    "police_station_name": "Uzirpur",
+    "district_id": 66
+  },
+  {
+    "id": 628,
+    "police_station_name": "ChitoshiE)",
+    "district_id": 67
+  },
+  {
+    "id": 629,
+    "police_station_name": "ChitoshiW)",
+    "district_id": 67
+  },
+  {
+    "id": 630,
+    "police_station_name": "UttarMeher",
+    "district_id": 67
+  },
+  {
+    "id": 631,
+    "police_station_name": "DakshinMeher",
+    "district_id": 67
+  },
+  {
+    "id": 632,
+    "police_station_name": "UttarRoysree",
+    "district_id": 67
+  },
+  {
+    "id": 633,
+    "police_station_name": "DakshinRoysree",
+    "district_id": 67
+  },
+  {
+    "id": 634,
+    "police_station_name": "UttarSuchiPara",
+    "district_id": 67
+  },
+  {
+    "id": 635,
+    "police_station_name": "DakshinSuchiPara",
+    "district_id": 67
+  },
+  {
+    "id": 636,
+    "police_station_name": "Tamta",
+    "district_id": 67
+  },
+  {
+    "id": 637,
+    "police_station_name": "Ashikati",
+    "district_id": 68
+  },
+  {
+    "id": 638,
+    "police_station_name": "Kalyanpur",
+    "district_id": 68
+  },
+  {
+    "id": 639,
+    "police_station_name": "Baghadi",
+    "district_id": 68
+  },
+  {
+    "id": 640,
+    "police_station_name": "Balia",
+    "district_id": 68
+  },
+  {
+    "id": 641,
+    "police_station_name": "Bishnupur",
+    "district_id": 68
+  },
+  {
+    "id": 642,
+    "police_station_name": "Chandra",
+    "district_id": 68
+  },
+  {
+    "id": 643,
+    "police_station_name": "HanarChar",
+    "district_id": 68
+  },
+  {
+    "id": 644,
+    "police_station_name": "Ibrahimpur",
+    "district_id": 68
+  },
+  {
+    "id": 645,
+    "police_station_name": "Maishadi",
+    "district_id": 68
+  },
+  {
+    "id": 646,
+    "police_station_name": "Rajrajeshwar",
+    "district_id": 68
+  },
+  {
+    "id": 647,
+    "police_station_name": "ShahMahmudpur",
+    "district_id": 68
+  },
+  {
+    "id": 648,
+    "police_station_name": "Rampur",
+    "district_id": 68
+  },
+  {
+    "id": 649,
+    "police_station_name": "Sakua",
+    "district_id": 68
+  },
+  {
+    "id": 650,
+    "police_station_name": "TarpurChandi",
+    "district_id": 68
+  },
+  {
+    "id": 651,
+    "police_station_name": "PurbaBaluthuba",
+    "district_id": 69
+  },
+  {
+    "id": 652,
+    "police_station_name": "PaschimBaluthuba",
+    "district_id": 69
+  },
+  {
+    "id": 653,
+    "police_station_name": "PurbaCharDukhia",
+    "district_id": 69
+  },
+  {
+    "id": 654,
+    "police_station_name": "PaschimCharDukhia",
+    "district_id": 69
+  },
+  {
+    "id": 655,
+    "police_station_name": "UttarFaridganj",
+    "district_id": 69
+  },
+  {
+    "id": 656,
+    "police_station_name": "DakshinFaridganj",
+    "district_id": 69
+  },
+  {
+    "id": 657,
+    "police_station_name": "UttarGobindapur",
+    "district_id": 69
+  },
+  {
+    "id": 658,
+    "police_station_name": "DakshinGobindapur",
+    "district_id": 69
+  },
+  {
+    "id": 659,
+    "police_station_name": "PurbaGupti",
+    "district_id": 69
+  },
+  {
+    "id": 660,
+    "police_station_name": "PaschimGupti",
+    "district_id": 69
+  },
+  {
+    "id": 661,
+    "police_station_name": "UttarPaikpara",
+    "district_id": 69
+  },
+  {
+    "id": 662,
+    "police_station_name": "DakshinPaikPara",
+    "district_id": 69
+  },
+  {
+    "id": 663,
+    "police_station_name": "UttarRupsa",
+    "district_id": 69
+  },
+  {
+    "id": 664,
+    "police_station_name": "DakshinRupsa",
+    "district_id": 69
+  },
+  {
+    "id": 665,
+    "police_station_name": "PurbaSubidpur",
+    "district_id": 69
+  },
+  {
+    "id": 666,
+    "police_station_name": "PaschimSubidpur",
+    "district_id": 69
+  },
+  {
+    "id": 667,
+    "police_station_name": "UttarAlgiDurgapur",
+    "district_id": 70
+  },
+  {
+    "id": 668,
+    "police_station_name": "DakshinAlgiDurgapur",
+    "district_id": 70
+  },
+  {
+    "id": 669,
+    "police_station_name": "CharBhairabi",
+    "district_id": 70
+  },
+  {
+    "id": 670,
+    "police_station_name": "HaimChar",
+    "district_id": 70
+  },
+  {
+    "id": 671,
+    "police_station_name": "Gazipur",
+    "district_id": 70
+  },
+  {
+    "id": 672,
+    "police_station_name": "Nilkamal",
+    "district_id": 70
+  },
+  {
+    "id": 673,
+    "police_station_name": "PurbaBarkur",
+    "district_id": 71
+  },
+  {
+    "id": 674,
+    "police_station_name": "PaschimBarkur",
+    "district_id": 71
+  },
+  {
+    "id": 675,
+    "police_station_name": "UttarGandharabpur",
+    "district_id": 71
+  },
+  {
+    "id": 676,
+    "police_station_name": "DakshinGandharbapur",
+    "district_id": 71
+  },
+  {
+    "id": 677,
+    "police_station_name": "Hajiganj",
+    "district_id": 71
+  },
+  {
+    "id": 678,
+    "police_station_name": "HatilaPaschim",
+    "district_id": 71
+  },
+  {
+    "id": 679,
+    "police_station_name": "HatilaPurba",
+    "district_id": 71
+  },
+  {
+    "id": 680,
+    "police_station_name": "UttarKalocho",
+    "district_id": 71
+  },
+  {
+    "id": 681,
+    "police_station_name": "DakshinKalocho",
+    "district_id": 71
+  },
+  {
+    "id": 682,
+    "police_station_name": "UttarRajgaon",
+    "district_id": 71
+  },
+  {
+    "id": 683,
+    "police_station_name": "BakilaDakshinRajargaon)",
+    "district_id": 71
+  },
+  {
+    "id": 684,
+    "police_station_name": "Baganbari",
+    "district_id": 72
+  },
+  {
+    "id": 685,
+    "police_station_name": "Farajikandi",
+    "district_id": 72
+  },
+  {
+    "id": 686,
+    "police_station_name": "Durgapur",
+    "district_id": 72
+  },
+  {
+    "id": 687,
+    "police_station_name": "PurbaFatehpur",
+    "district_id": 72
+  },
+  {
+    "id": 688,
+    "police_station_name": "Eklaspur",
+    "district_id": 72
+  },
+  {
+    "id": 689,
+    "police_station_name": "Islamabad",
+    "district_id": 72
+  },
+  {
+    "id": 690,
+    "police_station_name": "Jahirabad",
+    "district_id": 72
+  },
+  {
+    "id": 691,
+    "police_station_name": "Kalakanda",
+    "district_id": 72
+  },
+  {
+    "id": 692,
+    "police_station_name": "Mohanpur",
+    "district_id": 72
+  },
+  {
+    "id": 693,
+    "police_station_name": "Sadullapur",
+    "district_id": 72
+  },
+  {
+    "id": 694,
+    "police_station_name": "Satnal",
+    "district_id": 72
+  },
+  {
+    "id": 695,
+    "police_station_name": "Sultanabad",
+    "district_id": 72
+  },
+  {
+    "id": 696,
+    "police_station_name": "PaschimFatehpur",
+    "district_id": 72
+  },
+  {
+    "id": 697,
+    "police_station_name": "Gazra",
+    "district_id": 72
+  },
+  {
+    "id": 698,
+    "police_station_name": "Khadergaon",
+    "district_id": 73
+  },
+  {
+    "id": 699,
+    "police_station_name": "Narayanpur",
+    "district_id": 73
+  },
+  {
+    "id": 700,
+    "police_station_name": "UttarNayergaon",
+    "district_id": 73
+  },
+  {
+    "id": 701,
+    "police_station_name": "UttarUpadi",
+    "district_id": 73
+  },
+  {
+    "id": 702,
+    "police_station_name": "DakhsinNayergaon",
+    "district_id": 73
+  },
+  {
+    "id": 703,
+    "police_station_name": "DakshinUpadi",
+    "district_id": 73
+  },
+  {
+    "id": 704,
+    "police_station_name": "Ashrafpur",
+    "district_id": 74
+  },
+  {
+    "id": 705,
+    "police_station_name": "Bitara",
+    "district_id": 74
+  },
+  {
+    "id": 706,
+    "police_station_name": "UttarGohat",
+    "district_id": 74
+  },
+  {
+    "id": 707,
+    "police_station_name": "DakshinGohat",
+    "district_id": 74
+  },
+  {
+    "id": 708,
+    "police_station_name": "UttarKachua",
+    "district_id": 74
+  },
+  {
+    "id": 709,
+    "police_station_name": "DakshinKachua",
+    "district_id": 74
+  },
+  {
+    "id": 710,
+    "police_station_name": "Kadla",
+    "district_id": 74
+  },
+  {
+    "id": 711,
+    "police_station_name": "Karia",
+    "district_id": 74
+  },
+  {
+    "id": 712,
+    "police_station_name": "Pathair",
+    "district_id": 74
+  },
+  {
+    "id": 713,
+    "police_station_name": "PurbaSahadebpur",
+    "district_id": 74
+  },
+  {
+    "id": 714,
+    "police_station_name": "PaschimSahadebpur",
+    "district_id": 74
+  },
+  {
+    "id": 715,
+    "police_station_name": "Sachar",
+    "district_id": 74
+  },
+  {
+    "id": 716,
+    "police_station_name": "Amanullah",
+    "district_id": 75
+  },
+  {
+    "id": 717,
+    "police_station_name": "Azimpur",
+    "district_id": 75
+  },
+  {
+    "id": 718,
+    "police_station_name": "Bauria",
+    "district_id": 75
+  },
+  {
+    "id": 719,
+    "police_station_name": "Gachhua",
+    "district_id": 75
+  },
+  {
+    "id": 720,
+    "police_station_name": "Haramia",
+    "district_id": 75
+  },
+  {
+    "id": 721,
+    "police_station_name": "Harispur",
+    "district_id": 75
+  },
+  {
+    "id": 722,
+    "police_station_name": "Kalapania",
+    "district_id": 75
+  },
+  {
+    "id": 723,
+    "police_station_name": "Magdhara",
+    "district_id": 75
+  },
+  {
+    "id": 724,
+    "police_station_name": "Maitbhanga",
+    "district_id": 75
+  },
+  {
+    "id": 725,
+    "police_station_name": "Musapur",
+    "district_id": 75
+  },
+  {
+    "id": 726,
+    "police_station_name": "Rahmatpur",
+    "district_id": 75
+  },
+  {
+    "id": 727,
+    "police_station_name": "Santoshpur",
+    "district_id": 75
+  },
+  {
+    "id": 728,
+    "police_station_name": "Sarikait",
+    "district_id": 75
+  },
+  {
+    "id": 729,
+    "police_station_name": "Urirchar",
+    "district_id": 75
+  },
+  {
+    "id": 730,
+    "police_station_name": "Adhunagar",
+    "district_id": 76
+  },
+  {
+    "id": 731,
+    "police_station_name": "Amirabad",
+    "district_id": 76
+  },
+  {
+    "id": 732,
+    "police_station_name": "Barahatia",
+    "district_id": 76
+  },
+  {
+    "id": 733,
+    "police_station_name": "Charamba",
+    "district_id": 76
+  },
+  {
+    "id": 734,
+    "police_station_name": "Chunati",
+    "district_id": 76
+  },
+  {
+    "id": 735,
+    "police_station_name": "Kalauzan",
+    "district_id": 76
+  },
+  {
+    "id": 736,
+    "police_station_name": "Lohagara",
+    "district_id": 76
+  },
+  {
+    "id": 737,
+    "police_station_name": "Padua",
+    "district_id": 76
+  },
+  {
+    "id": 738,
+    "police_station_name": "Putibila",
+    "district_id": 76
+  },
+  {
+    "id": 739,
+    "police_station_name": "Amilais",
+    "district_id": 77
+  },
+  {
+    "id": 740,
+    "police_station_name": "Eochia",
+    "district_id": 77
+  },
+  {
+    "id": 741,
+    "police_station_name": "Bazalia",
+    "district_id": 77
+  },
+  {
+    "id": 742,
+    "police_station_name": "Charati",
+    "district_id": 77
+  },
+  {
+    "id": 743,
+    "police_station_name": "Dhemsa",
+    "district_id": 77
+  },
+  {
+    "id": 744,
+    "police_station_name": "Dharmapur",
+    "district_id": 77
+  },
+  {
+    "id": 745,
+    "police_station_name": "Kaliais",
+    "district_id": 77
+  },
+  {
+    "id": 746,
+    "police_station_name": "Kanchana",
+    "district_id": 77
+  },
+  {
+    "id": 747,
+    "police_station_name": "Keochia",
+    "district_id": 77
+  },
+  {
+    "id": 748,
+    "police_station_name": "Khagaria",
+    "district_id": 77
+  },
+  {
+    "id": 749,
+    "police_station_name": "Madrasa",
+    "district_id": 77
+  },
+  {
+    "id": 750,
+    "police_station_name": "Nalua",
+    "district_id": 77
+  },
+  {
+    "id": 751,
+    "police_station_name": "Puranghar",
+    "district_id": 77
+  },
+  {
+    "id": 752,
+    "police_station_name": "Chhadaha",
+    "district_id": 77
+  },
+  {
+    "id": 753,
+    "police_station_name": "Satkania",
+    "district_id": 77
+  },
+  {
+    "id": 754,
+    "police_station_name": "Sonakania",
+    "district_id": 77
+  },
+  {
+    "id": 755,
+    "police_station_name": "PaschimDhemsa",
+    "district_id": 77
+  },
+  {
+    "id": 756,
+    "police_station_name": "Asia",
+    "district_id": 78
+  },
+  {
+    "id": 757,
+    "police_station_name": "Baralia",
+    "district_id": 78
+  },
+  {
+    "id": 758,
+    "police_station_name": "BaraUthan",
+    "district_id": 78
+  },
+  {
+    "id": 759,
+    "police_station_name": "Bhatikhain",
+    "district_id": 78
+  },
+  {
+    "id": 760,
+    "police_station_name": "Chanhara",
+    "district_id": 78
+  },
+  {
+    "id": 761,
+    "police_station_name": "CharLakshya",
+    "district_id": 78
+  },
+  {
+    "id": 762,
+    "police_station_name": "CharPatharghata",
+    "district_id": 78
+  },
+  {
+    "id": 763,
+    "police_station_name": "Dhalghat",
+    "district_id": 78
+  },
+  {
+    "id": 764,
+    "police_station_name": "HabilasDwip",
+    "district_id": 78
+  },
+  {
+    "id": 765,
+    "police_station_name": "Haidgaon",
+    "district_id": 78
+  },
+  {
+    "id": 766,
+    "police_station_name": "Junglekhain",
+    "district_id": 78
+  },
+  {
+    "id": 767,
+    "police_station_name": "Juldha",
+    "district_id": 78
+  },
+  {
+    "id": 768,
+    "police_station_name": "Kachuai",
+    "district_id": 78
+  },
+  {
+    "id": 769,
+    "police_station_name": "Kasiais",
+    "district_id": 78
+  },
+  {
+    "id": 770,
+    "police_station_name": "Kelishahar",
+    "district_id": 78
+  },
+  {
+    "id": 771,
+    "police_station_name": "Kharana",
+    "district_id": 78
+  },
+  {
+    "id": 772,
+    "police_station_name": "Kolagaon",
+    "district_id": 78
+  },
+  {
+    "id": 773,
+    "police_station_name": "Kusumpura",
+    "district_id": 78
+  },
+  {
+    "id": 774,
+    "police_station_name": "Sikalbaha",
+    "district_id": 78
+  },
+  {
+    "id": 775,
+    "police_station_name": "Sobhandandi",
+    "district_id": 78
+  },
+  {
+    "id": 776,
+    "police_station_name": "SouthBhurshi",
+    "district_id": 78
+  },
+  {
+    "id": 777,
+    "police_station_name": "Jiri",
+    "district_id": 78
+  },
+  {
+    "id": 778,
+    "police_station_name": "Bailtali",
+    "district_id": 79
+  },
+  {
+    "id": 779,
+    "police_station_name": "Barkal",
+    "district_id": 79
+  },
+  {
+    "id": 780,
+    "police_station_name": "Barama",
+    "district_id": 79
+  },
+  {
+    "id": 781,
+    "police_station_name": "Dhopachhari",
+    "district_id": 79
+  },
+  {
+    "id": 782,
+    "police_station_name": "Dohazari",
+    "district_id": 79
+  },
+  {
+    "id": 783,
+    "police_station_name": "Hashimpur",
+    "district_id": 79
+  },
+  {
+    "id": 784,
+    "police_station_name": "Joara",
+    "district_id": 79
+  },
+  {
+    "id": 785,
+    "police_station_name": "Kanchanabad",
+    "district_id": 79
+  },
+  {
+    "id": 786,
+    "police_station_name": "Satbaria",
+    "district_id": 79
+  },
+  {
+    "id": 787,
+    "police_station_name": "AhlaKaraldanga",
+    "district_id": 80
+  },
+  {
+    "id": 788,
+    "police_station_name": "Amuchia",
+    "district_id": 80
+  },
+  {
+    "id": 789,
+    "police_station_name": "Charandwip",
+    "district_id": 80
+  },
+  {
+    "id": 790,
+    "police_station_name": "PurbaGomdandi",
+    "district_id": 80
+  },
+  {
+    "id": 791,
+    "police_station_name": "Kadhurkhil",
+    "district_id": 80
+  },
+  {
+    "id": 792,
+    "police_station_name": "Popadia",
+    "district_id": 80
+  },
+  {
+    "id": 793,
+    "police_station_name": "Saroatali",
+    "district_id": 80
+  },
+  {
+    "id": 794,
+    "police_station_name": "Shakpura",
+    "district_id": 80
+  },
+  {
+    "id": 795,
+    "police_station_name": "SreepurKharandwip",
+    "district_id": 80
+  }
+ ]
